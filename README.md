@@ -9,3 +9,7 @@ npm install prisma --save-dev
 npx prisma init 
 
 npx prisma generate
+
+## Ref.
+
+ - Link do Vídeo: https://www.youtube.com/watch?v=rB46XcD-rmQ
